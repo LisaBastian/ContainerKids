@@ -36,7 +36,7 @@ This repository contains:
 
 ---
 
-## 🚀 Quick Start
+## GET STARTED
 
 1. **Clone & install**  
    ```bash
